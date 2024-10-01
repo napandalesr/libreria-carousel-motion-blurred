@@ -33,5 +33,8 @@
     "typescript": "^5.5.4",
     "webpack": "^5.94.0",
     "webpack-cli": "^5.1.4"
+  },
+  "publishConfig": {
+    "@napandalesr:registry": "https://npm.pkg.github.com"
   }
 }
