@@ -1,3 +1,3 @@
-import Counter from './carousel-motion-blurred';
+import Carousel from './carousel-motion-blurred';
 
-export { Counter };
+export { Carousel };
