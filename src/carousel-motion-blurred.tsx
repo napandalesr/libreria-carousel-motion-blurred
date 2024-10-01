@@ -59,6 +59,7 @@ const Carousel: React.FC = React.memo(({breackpointW, breackpointH, children, do
     }
   }, [cards, width]);
 
+  //Ajusta el ancho y el alto de la pantalla según los props (Opcional)
   useEffect(() => {
     if(width > 0)
     if(breackpointW) {
